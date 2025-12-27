@@ -26,7 +26,9 @@ Containerization	Docker
 Orchestration	Kubernetes (Minikube)
 Cloud Registry	AWS ECR
 OS / Runtime	Linux (WSL), Docker Desktop
-🧱 Project Structure
+## 📁 Project Structure
+
+```text
 system-monitoring-devops/
 ├── app.py
 ├── requirements.txt
@@ -38,6 +40,7 @@ system-monitoring-devops/
 │   ├── deployment.yaml
 │   └── service.yaml
 └── README.md
+
 
 ⚙️ Application Overview
 
